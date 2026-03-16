@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Lens Thinking"
+  short_description: "Solve complex decisions via professional lenses"
+  default_prompt: "Use $multi-lens-thinking to analyze my problem from 3-5 professional lenses and give an action plan."
